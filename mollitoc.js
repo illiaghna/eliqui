@@ -1,0 +1,1 @@
+var keywordText = keyword.getText();
